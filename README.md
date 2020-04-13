@@ -33,7 +33,7 @@ I am a software developer and tech enthusiast, having recently graduated from th
 | Project           | Info            |
 | :------------:     | :-------------         |
 | [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center"> <img src="https://raw.githubusercontent.com/Megscode/Wanderlist/master/planning/WanderList-mockup-invision.png" width="600" /> </div></a>| <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilisng the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
-| Additional Makers projects | To see more of my Makers Academy projects please have a look at my portfolio [here](https://github.com/davmcgregor/Makers_Portfolio) |
+| [Additional Makers projects](https://github.com/davmcgregor/Makers_Portfolio) | To see more of my Makers Academy projects please have a look at my [portfolio](https://github.com/davmcgregor/Makers_Portfolio) |
 
 ## Education
 
