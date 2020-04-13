@@ -3,6 +3,8 @@
 <h1> David McGregor </h1>
   <a href=https://www.linkedin.com/in/david-mcgregor-49b2a361/>
   <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
+    <a href=https://blog.makersacademy.com/tips-to-max-your-learning-5e363517acfb/>
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>  
    <a href="https://github.com/davmcgregor">
   <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
   <a href="mailto:davidjohnmcgregor@gmail.com">
