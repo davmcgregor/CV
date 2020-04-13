@@ -1,17 +1,18 @@
-<h1 align="center"> David McGregor </h1>
-
 <div align="center">
+  
+<h1> David McGregor </h1>
   <a href=https://www.linkedin.com/in/david-mcgregor-49b2a361/>
   <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
    <a href="https://github.com/davmcgregor">
   <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
   <a href="mailto:davidjohnmcgregor@gmail.com">
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
-</div>
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) 
 
-I am a software developer and tech enthusiast, having recently graduated from the intensive Makers Academy software engineering course. My love of coding grew over the six years I spent working as a digital communications specialist, where I advised political, government and non-profit organisations. Now I'm looking to join an agile team where I can work on new challenges, expand my programming knowledge, and build great technology.
+</div>
+
+I am a software developer and tech enthusiast, having recently graduated from the intensive Makers Academy software engineering course. My love of coding grew over the six years I worked as a digital communications specialist, where I advised political, government and non-profit organisations back home in Australia. Now I'm looking to join an agile team where I can work on new challenges, expand my programming knowledge and build great technology.
 
 ## Tech Skills
 - Ruby, Rails, RSpec, Sinatra, Capybara
