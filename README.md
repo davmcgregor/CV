@@ -12,7 +12,7 @@
 
 </div>
 
-I am a software developer and tech enthusiast, having recently graduated from the intensive Makers Academy web development course course. My love of coding grew over the six years I worked as a digital communications specialist, where I advised political, government and non-profit organisations back home in Australia. Now I'm looking to join a team where I can work on new challenges, expand my programming knowledge and build great technology.
+I am a software developer and tech enthusiast, having recently graduated from the intensive Makers Academy web development course. My love of coding grew over the six years I worked as a digital communications specialist, where I advised political, government and non-profit organisations back home in Australia. Now I'm looking to join a team where I can work on new challenges, expand my programming knowledge and build great technology.
 
 ## Tech Skills
 - Ruby, Rails, RSpec, Sinatra, Capybara
