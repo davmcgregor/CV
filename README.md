@@ -93,5 +93,5 @@ A selective 16-week coding bootcamp, focusing on teaching the fundamentals of so
 
 ## Hobbies and Interests
 - **Trail Running**: I'm training for the next Ultra-Trail du Mont-Blanc ultra-marathon in the Alps
-- **Travel**: I've visited over 60 countries and counting...
+- **Travel**: I've visited over 60 countries and counting - ultimate goal is to do the Trans-Siberian Railway
 - **History**: I'm currently re-listening to [Dan Carlin's](https://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/) amazing WW1 series
