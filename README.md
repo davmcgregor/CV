@@ -10,7 +10,7 @@
   <a href="mailto:davidjohnmcgregor@gmail.com">
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
 
- **Junior software developer based in London.**<br />
+ **Junior software developer based in London.**<br/>
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) 
 
 </div>
