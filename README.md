@@ -20,15 +20,16 @@ I am a **full-stack software developer** and tech enthusiast, having recently gr
 ## Tech Skills
 - JavaScript: ReactJS, jQuery, Jasmine, APIs, Node.js 
 - Ruby: Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
-- Tools: PostgreSQL, Travis CI, Heroku, Code Climate
+- Tools: Git, PostgreSQL, Travis CI, Heroku, Code Climate
 - HTML, CSS, Bootstrap
 
 ## Other Skills
 
-- Purpose-driven thinker with proven communications skills across digital strategy, public relations, supporter growth, social media, fundraising and campaigns.
-- Passionate about effective teamwork, problem solving and professional development.
-- Fast learner who thrives on challenges and keeping on top of the latest trends.
-- Experienced in Social Media Marketing,the Adove Creative Suite, Google Analytics and SEO.
+- Agile methodology, test-driven development, process diagramming 
+- Fast learner who thrives on challenges and keeping on top of the latest trends
+- Passionate about effective teamwork, problem solving and professional development
+- Advanced communications skills across digital strategy, public relations, supporter growth, social media, fundraising and campaigns
+- Experienced in Social Media Marketing,the Adove Creative Suite, Google Analytics and SEO
 
 ## Projects
 
