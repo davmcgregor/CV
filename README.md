@@ -23,13 +23,6 @@ I am a **full-stack software developer** and tech enthusiast, having recently gr
 - Tools: Git, PostgreSQL, Travis CI, Heroku, Code Climate
 - HTML, CSS, Bootstrap
 
-## Code Reviews
-
-Here's what independent reviewers have said about my process:
-
-* [Review 1](review1.pdf)
-* [Review 2](review2.pdf)
-
 ## Other Skills
 
 - Agile methodology, test-driven development, process diagramming 
@@ -37,6 +30,13 @@ Here's what independent reviewers have said about my process:
 - Passionate about effective teamwork, problem solving and professional development
 - Advanced communications skills across digital strategy, public relations, supporter growth, social media, fundraising and campaigns
 - Experienced in Social Media Marketing,the Adove Creative Suite, Google Analytics and SEO
+
+## Code Reviews
+
+Here's what independent reviewers have said about my process:
+
+* [Review 1](reviews/review1.pdf)
+* [Review 2](reviews/review2.pdf)
 
 ## Projects
 
