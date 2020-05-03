@@ -23,6 +23,13 @@ I am a **full-stack software developer** and tech enthusiast, having recently gr
 - Tools: Git, PostgreSQL, Travis CI, Heroku, Code Climate
 - HTML, CSS, Bootstrap
 
+## Code Reviews
+
+Here's what independent reviewers have said about my process:
+
+* [Review 1](review1.pdf)
+* [Review 2](review2.pdf)
+
 ## Other Skills
 
 - Agile methodology, test-driven development, process diagramming 
