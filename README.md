@@ -25,6 +25,7 @@ I am a **full-stack software developer** and tech enthusiast, having recently gr
 <a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/HTML-389%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/SQL-42%20commits-blue.svg" alt=""></a>
 </div>
+
 - JavaScript: ReactJS, jQuery, Jasmine, APIs, Node.js 
 - Ruby: Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
 - Tools: Git, PostgreSQL, Travis CI, Heroku, Code Climate
