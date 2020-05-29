@@ -10,18 +10,14 @@
   <a href="mailto:davidjohnmcgregor@gmail.com">
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
 
- **Junior software developer based in London.**
+ **Junior software developer based in London.**<br/>
  
- <br/>
- 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
-
-<br/>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/Ruby-466%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/JavaScript-461%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/CSS-447%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/HTML-389%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/SQL-42%20commits-orange.svg" alt=""></a>
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)<br/>
+<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/Ruby-466%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/JavaScript-461%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/CSS-447%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/HTML-389%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/davmcgregor"><img src="https://img.shields.io/badge/SQL-42%20commits-blue.svg" alt=""></a>
 
 </div>
 
