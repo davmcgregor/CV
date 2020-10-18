@@ -20,7 +20,6 @@ React, Redux, Vue, Node.js, Express, Docker, TailwindCSS, Material-UI, PostgreSQ
 
 ## Other Skills
 
-- Agile methodology, test-driven development, process diagramming 
 - Fast learner who thrives on challenges and keeping on top of the latest trends
 - Passionate about effective teamwork, problem solving and professional development
 - Advanced communications skills across digital strategy, public relations, supporter growth, social media, fundraising and campaigns
