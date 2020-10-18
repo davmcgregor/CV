@@ -31,7 +31,7 @@ React, Redux, Vue, Node.js, Express, Docker, TailwindCSS, Material-UI, PostgreSQ
 - Advanced communications skills across digital strategy, public relations, supporter growth, social media, fundraising and campaigns
 - Experienced in Social Media Marketing,the Adobe Creative Suite, Google Analytics and SEO
 
-## Miscellaneous Projects (Check my [portfolio site](https://davidmcgregor.dev) for more recent projects)
+## Miscellaneous Projects (Check my [portfolio site](https://davidmcgregor.dev) for more advanced projects)
 
 | Project           | Info            |
 | :------------:     | :-------------         |
