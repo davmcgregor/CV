@@ -1,12 +1,18 @@
 <div align="center">
   
 <h1> David McGregor </h1>
+  <a href="https://www.davidmcgregor.dev">
+    <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" alt="link-icon" height="38" width="38" hspace="20">
+  </a>
   <a href=https://www.linkedin.com/in/david-mcgregor-49b2a361/>
-  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
+    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20">
+  </a>
    <a href="https://github.com/davmcgregor">
-  <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
+    <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20">
+  </a>
   <a href="mailto:davidjohnmcgregor@gmail.com">
-  <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
+    <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20">
+  </a>
 
  **Software developer based in London.**<br/>
 
@@ -20,18 +26,18 @@ React, Redux, Vue, Node.js, Express, Docker, TailwindCSS, Material-UI, PostgreSQ
 
 ## Other Skills
 
-- Agile methodology, test-driven development, process diagramming 
 - Fast learner who thrives on challenges and keeping on top of the latest trends
 - Passionate about effective teamwork, problem solving and professional development
 - Advanced communications skills across digital strategy, public relations, supporter growth, social media, fundraising and campaigns
 - Experienced in Social Media Marketing,the Adobe Creative Suite, Google Analytics and SEO
 
-## Miscellaneous Projects (Check my [portfolio site](https://davidmcgregor.dev) for the latest updates)
+## Miscellaneous Projects (Check my [portfolio site](https://davidmcgregor.dev) for more advanced projects)
 
 | Project           | Info            |
 | :------------:     | :-------------         |
-| [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist_Screenshot](screenshots/wanderlist.gif)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
+| [DevHub](https://github.com/davmcgregor/devhub) <br /><br /><a href="https://github.com/davmcgregor/devhub"><div align="center" width="500">![DevHub_Screenshot](https://raw.githubusercontent.com/davmcgregor/devhub/master/devhub-screenshot.png)</div></a> | <h4>Description</h4> Social network app for developers including authentication, profiles and forum posts.<br/> <h4> Tech stack </h4> PostgreSQL, Express, React, Node.js + authentication & Redux | 
 [Covid-19 Tracker](https://github.com/davmcgregor/covid-19-tracker) <br /><br /><a href="https://github.com/davmcgregor/covid-19-tracker"><div align="center" width="500">![Covid-19-tracker](https://raw.githubusercontent.com/davmcgregor/covid-19-tracker/master/public/covid-19-tracker.gif)</div></a> | <h4>Description</h4>React app that makes an API call to display the latest Covid-19 statistics.<br/> <h4> Tech stack </h4> React, Material-UI, Chart.js, Travis CI, Netlify |
+| [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist_Screenshot](screenshots/wanderlist.gif)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
 [Exercise Tracker](https://github.com/davmcgregor/exercise-tracker-mern) <br /><br /><a href="https://github.com/davmcgregor/exercise-tracker-mern"><div align="center" width="500">![exercise-tracker](https://raw.githubusercontent.com/davmcgregor/exercise-tracker-mern/master/exercise-tracker-mern.gif)</div></a> | <h4>Description</h4>Basic CRUD application that utilises the MERN stack<br/> <h4> Tech stack </h4> MongoDB, Express, React, Node.js |
 [React Chat App](https://github.com/davmcgregor/react-chat-app) <br /><br /><a href="https://github.com/davmcgregor/react-chat-app"><div align="center" width="500">![React-chat-app](https://raw.githubusercontent.com/davmcgregor/react-chat-app/master/react-chat-app.gif)</div></a> | <h4>Description</h4>Real-time react chat app that allows users to join rooms, send and receive messages.<br/> <h4> Tech stack </h4> React, Node.js, Socket.io, Heroku, Netlify |
 [Youtube Clone](https://github.com/davmcgregor/youtube-clone-react) <br /><br /><a href="https://github.com/davmcgregor/youtube-clone-react"><div align="center" width="500">![React-chat-app](https://raw.githubusercontent.com/davmcgregor/youtube-clone-react/master/youtube-clone-react.gif)</div></a> | <h4>Description</h4>React app that calls on the youtube API to display search results.<br/> <h4> Tech stack </h4> React, Material-UI |
