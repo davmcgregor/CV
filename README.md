@@ -1,50 +1,43 @@
 <div align="center">
   
 <h1> David McGregor </h1>
+  <a href="https://www.davidmcgregor.dev">
+    <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" alt="link-icon" height="38" width="38" hspace="20">
+  </a>
   <a href=https://www.linkedin.com/in/david-mcgregor-49b2a361/>
-  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
-    <a href=https://blog.makersacademy.com/tips-to-max-your-learning-5e363517acfb/>
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>  
+    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20">
+  </a>
    <a href="https://github.com/davmcgregor">
-  <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
+    <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20">
+  </a>
   <a href="mailto:davidjohnmcgregor@gmail.com">
-  <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
+    <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20">
+  </a>
 
- **Junior software developer based in London.**<br/>
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) 
+ **Software developer based in London.**<br/>
 
 </div>
 
-I am a **full-stack software developer** and tech enthusiast, having recently graduated from the intensive Makers Academy web development course (I've blogged about the experience [here](https://blog.makersacademy.com/tips-to-max-your-learning-5e363517acfb)). My love of coding grew over the six years I worked as a digital communications specialist, where I advised political, government and non-profit organisations back home in Australia. Now I'm looking to join a team where I can work on new challenges, expand my programming knowledge and build great technology.
+I am a **full-stack software developer** and tech enthusiast working in London. My love of coding grew throughout my former career as a digital communications specialist, where I advised political, government and community organisations back home in Australia. Now I'm helping dev teams build great technology and expanding my programming knowledge!
 
 ## Tech Skills
-- JavaScript: ReactJS, jQuery, Jasmine, APIs, Node.js 
-- Ruby: Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
-- Tools: Git, PostgreSQL, Travis CI, Heroku, Code Climate
-- HTML, CSS, Bootstrap
+
+React, React Native, Redux, Vue, Node.js, Express, Docker, TailwindCSS, Material-UI, PostgreSQL, MongoDB, CraftCMS, Twig, Rails, Ruby, APIs, AWS, Git, Heroku, Test-driven development, Pair programming, Agile methodology
 
 ## Other Skills
 
-- Agile methodology, test-driven development, process diagramming 
 - Fast learner who thrives on challenges and keeping on top of the latest trends
 - Passionate about effective teamwork, problem solving and professional development
 - Advanced communications skills across digital strategy, public relations, supporter growth, social media, fundraising and campaigns
-- Experienced in Social Media Marketing,the Adove Creative Suite, Google Analytics and SEO
+- Experienced in Social Media Marketing,the Adobe Creative Suite, Google Analytics and SEO
 
-## Code Reviews
-
-Here's what independent reviewers have said about my process:
-
-* [Review 1](reviews/review1.pdf)
-* [Review 2](reviews/review2.pdf)
-
-## Projects
+## Miscellaneous Projects (Check my [portfolio site](https://davidmcgregor.dev) for more advanced projects)
 
 | Project           | Info            |
 | :------------:     | :-------------         |
-[Personal Portfolio Site](http://davemcgregor.me) <br /><br /><a href="http://davemcgregor.me"><div align="center" width="500">![personal-portfolio-site](screenshots/personal-portfolio-site.gif)</div></a> | <h4>Description</h4>Personal site to showcase projects, qualifications and contact details.<br/> <h4> Tech stack </h4> React, Material-UI, Netlify |
-| [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist_Screenshot](screenshots/wanderlist.gif)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
+| [DevHub](https://github.com/davmcgregor/devhub) <br /><br /><a href="https://github.com/davmcgregor/devhub"><div align="center" width="500">![DevHub_Screenshot](https://raw.githubusercontent.com/davmcgregor/devhub/master/devhub-screenshot.png)</div></a> | <h4>Description</h4> Social network app for developers including authentication, profiles and forum posts.<br/> <h4> Tech stack </h4> PostgreSQL, Express, React, Node.js + authentication & Redux | 
 [Covid-19 Tracker](https://github.com/davmcgregor/covid-19-tracker) <br /><br /><a href="https://github.com/davmcgregor/covid-19-tracker"><div align="center" width="500">![Covid-19-tracker](https://raw.githubusercontent.com/davmcgregor/covid-19-tracker/master/public/covid-19-tracker.gif)</div></a> | <h4>Description</h4>React app that makes an API call to display the latest Covid-19 statistics.<br/> <h4> Tech stack </h4> React, Material-UI, Chart.js, Travis CI, Netlify |
+| [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist_Screenshot](screenshots/wanderlist.gif)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
 [Exercise Tracker](https://github.com/davmcgregor/exercise-tracker-mern) <br /><br /><a href="https://github.com/davmcgregor/exercise-tracker-mern"><div align="center" width="500">![exercise-tracker](https://raw.githubusercontent.com/davmcgregor/exercise-tracker-mern/master/exercise-tracker-mern.gif)</div></a> | <h4>Description</h4>Basic CRUD application that utilises the MERN stack<br/> <h4> Tech stack </h4> MongoDB, Express, React, Node.js |
 [React Chat App](https://github.com/davmcgregor/react-chat-app) <br /><br /><a href="https://github.com/davmcgregor/react-chat-app"><div align="center" width="500">![React-chat-app](https://raw.githubusercontent.com/davmcgregor/react-chat-app/master/react-chat-app.gif)</div></a> | <h4>Description</h4>Real-time react chat app that allows users to join rooms, send and receive messages.<br/> <h4> Tech stack </h4> React, Node.js, Socket.io, Heroku, Netlify |
 [Youtube Clone](https://github.com/davmcgregor/youtube-clone-react) <br /><br /><a href="https://github.com/davmcgregor/youtube-clone-react"><div align="center" width="500">![React-chat-app](https://raw.githubusercontent.com/davmcgregor/youtube-clone-react/master/youtube-clone-react.gif)</div></a> | <h4>Description</h4>React app that calls on the youtube API to display search results.<br/> <h4> Tech stack </h4> React, Material-UI |
@@ -55,7 +48,7 @@ Here's what independent reviewers have said about my process:
 
 ## Education
 
-#### Makers Academy (Dec '19 - Apr '20)
+#### Makers Academy (Dec '19 - Mar '20)
 
 A selective 16-week coding bootcamp, focusing on teaching the fundamentals of software engineering:
 
